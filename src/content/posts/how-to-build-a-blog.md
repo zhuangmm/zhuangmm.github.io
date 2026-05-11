@@ -2,8 +2,8 @@
 title: 如何搭建一个博客
 published: 2025-12-19
 description: 终于把个人博客搭建起来了，这不得写个教程。
-tags: [blog, astro]
-category: tutorial
+tags: [Blog, Astro]
+category: Tutorial
 draft: false
 ---
 # 前言
